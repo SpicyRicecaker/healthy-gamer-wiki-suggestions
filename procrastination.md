@@ -9,19 +9,19 @@ The problem with trying is that it is in the middle of doing and failing. That p
 
 Procrastination is a solution, not a problem. It is waiting until the last minute to complete a task. As a result, it is an incredibly efficient task completion strategy in terms of value and efficiency (yield/effort).
 
-Procrastination is hard to change or fix because it is so efficient. It is hard to convince our brain that not procrastinating is logical. It is so efficient that a majority of people procrastinate. Moreover, since there are multiple types of procrastination, we tend to misdiagnose and mistreating it.
+Procrastination is hard to change or fix because it is so efficient. It is hard to convince our brain that not procrastinating is logical. It is so efficient that a majority of people procrastinate. Moreover, since there are multiple types of procrastination, we tend to misdiagnose and mistreat it.
 
 UNDER CONSTRUCTION
 
- Do not look any other step except for the the next step. The overwhelming part is looking at the goal and looking into the future. Instead live in the present. This is why dr k does not talk about goals because they make it harder to take the next step.
+ Do not look at any other step except for the next step. The overwhelming part is looking at the goal and looking into the future. Instead, live in the present. This is why dr k does not talk about goals because they make it harder to take the next step.
 
 I feel bad when I leave other projects unfinished. Deal with it, leave it unfinished. Focus on finishing the one you need to work on.
 
- Since Dr K is a vata, 90% of projects will go unfinished and he just leaves behind the 90% to focus on the 10% he needs to finish. Also think of the 90% of unfinished projects as 90% prepared projects. Keep those projects incomplete because there is no point in completing just for the status of 100% completion. Keep them so that when there is a need in the future, you will already have things preparted and almost compelted.
+ Since Dr K is a vata, 90% of projects will go unfinished and he just leaves behind the 90% to focus on the 10% he needs to finish. Also think of the 90% of unfinished projects as 90% prepared projects. Keep those projects incomplete because there is no point in completing just for the status of 100% completion. Keep them so that when there is a need in the future, you will already have things prepared and almost completed.
 
 Even if you have nothing completed now, you can finish something someday. An unfinished project means nothing because all projects are unfinished before they are finished.
 
- for ex of unfinished projects actually being finished or having value still: you do not need to publish writing for there to be value. dr k writes so much that is unpublishd but writing helps him clarifies his thoughts and makes it accessible. unfinished projects are opportunities to learn about the material, the process of completion, and yourself.
+ for ex of unfinished projects actually being finished or having value still: you do not need to publish writing for there to be value. dr k writes so much that is unpublished but writing helps him clarify his thoughts and makes it accessible. Unfinished projects are opportunities to learn about the material, the process of completion, and yourself.
 
  UNDER CONSTRUCTION
 
@@ -126,7 +126,7 @@ For example, when a four-year-old is asked to clean their room, they have troubl
 
 You walk them through the steps of creating a clean room. They cannot take the abstract task of cleaning their room and break it down into pieces. The process of taking an abstract problem and creating the operation of moving from point 'A' to point 'Z' is called operationalizing.
 
-If you wanted to operationalize financial independence, you would break it down into tasks such as creating a bank account, earning enough money to pay rent, and finding a place to live. You could further break it down by making decisions such as whether or not you need a roommate, or whether you want to live in the suburbs or downtown. There are several different pieces to the puzzle, and breaking it down into its constituent pieces it operationalizing.
+If you wanted to operationalize financial independence, you would break it down into tasks such as creating a bank account, earning enough money to pay rent, and finding a place to live. You could further break it down by making decisions such as whether or not you need a roommate, or whether you want to live in the suburbs or downtown. There are several different pieces to the puzzle, and breaking it down into its constituent pieces is operationalizing.
 
 The reason gamers have trouble with operationalizing is that games tend to break down tasks for them. They are good at putting the pieces together, but they struggle with figuring out what the pieces are.
 
@@ -208,19 +208,19 @@ What gamers need to do to move forward is to refrain from being objective-orient
 Executive Dysfunction
 ---------------------
 
-The frontal lobes is a part in the brain that is used to plan and execute complex tasks, while executive function is the the ability to execute those complex/abstract tasks. For example, finding a job is one of the most common abstract tasks that tests the executive function of the frontal lobes because it requires you to create smaller, related tasks that will lead you to employment. You would need to do things such as updating or drafting a resume, revising that resume, asking for feedback, etc. All of these smaller tasks are combined to be one big abstract task which is find a job. Executive function usually improves with age because the frontal lobe develops, and does not degrade over time. However, the frontal lobes are negatively impacted by playing video games because video games often removed the need to use of executive functions of the frontal lobes by breaking down the task for you. Eventually, enough video game exposure could possibility cause something called executive dysfunction.
+The frontal lobes are a part of the brain that is used to plan and execute complex tasks, while executive function is the ability to execute those complex/abstract tasks. For example, finding a job is one of the most common abstract tasks that tests the executive function of the frontal lobes because it requires you to create smaller, related tasks that will lead you to employment. You would need to do things such as updating or drafting a resume, revising that resume, asking for feedback, etc. All of these smaller tasks are combined to be one big abstract task which is find a job. Executive function usually improves with age because the frontal lobe develops, and does not degrade over time. However, the frontal lobes are negatively impacted by playing video games because video games often remove the need to use the executive functions of the frontal lobes by breaking down the task for you. Eventually, enough video game exposure could possibly cause something called executive dysfunction.
 
-Executive dysfunction is when your executive function are not working effectively and therefore you are not able to break down abstract tasks and execute on them. This is often observed in toddlers when asked to clean their room. Often times toddlers are unable to clean their room, yet they are completely capable of doing the smaller tasks that would equate to cleaning a room. They are unable to break down the task of cleaning their room because their frontal lobes and executive functions are not as develop as adults. As a result, they require someone with the executive function ability, i.e. the parents, to break down the task for them and deliver the steps to them. So like the toddler, people with executive dysfunction will struggle working towards a large task and will be paralyzed. They can also have insight and understand their paralyzation but there is nothing they can alter in the brain to change their executive dysfunction.
+Executive dysfunction is when your executive functions are not working effectively and therefore you are not able to break down abstract tasks and execute on them. This is often observed in toddlers when asked to clean their room. Oftentimes toddlers are unable to clean their room, yet they are completely capable of doing the smaller tasks that would equate to cleaning a room. They are unable to break down the task of cleaning their room because their frontal lobes and executive functions are not as developed as adults. As a result, they require someone with the executive function ability, i.e. the parents, to break down the task for them and deliver the steps to them. So like the toddler, people with executive dysfunction will struggle working towards a large task and will be paralyzed. They can also have insight and understand their paralyzation, but there is nothing they can alter in the brain to change their executive dysfunction.
 
 ### Curing your Executive Dysfunction
 
-1.  You learn how to break down tasks from open ended problems to closed ended problems. Gamers often struggle to solve these open ended problems because games break down tasks for them like a parents giving toddlers a list of tasks. And once the problem is broken down to discrete tasks and goals, gamers are extremely efficient in the fulfilling those tasks.
+1.  You learn how to break down tasks from open-ended problems to closed-ended problems. Gamers often struggle to solve these open-ended problems because games break down tasks for them, like a parent giving toddlers a list of tasks. And once the problem is broken down into discrete tasks and goals, gamers are extremely efficient in fulfilling those tasks.
 2.  Exercise: Pretend that you are paralyzed from the neck down, and you have a servant that will do exactly what you say to them based on exactly how you say it to them. What would you tell your servant to do to work on the large task?
 3.  Seek [therapy](https://wiki.healthygamer.gg/en/Mental_Health) or help to process your [emotions](https://wiki.healthygamer.gg/en/Emotions) because executive dysfunction often comes with frustration and negative feeling that inhibit your ability to act.
 
--   Be cautious of your negative emotion that keep you from starting i.e. "what if ... happens" "it will not perfect so why bother trying" "When I'm ready, then I will..."
+-   Be cautious of your negative emotion that keep you from starting i.e. "what if ... happens" "it will not be perfect so why bother trying" "When I'm ready, then I will..."
 
-1.  Overtime, despite the difficulty and time you take, you executive functions will, so have hope.
+1.  Overtime, despite the difficulty and time you take, your executive functions will improve, so have hope.
 2.  [Meditation](https://wiki.healthygamer.gg/en/Meditation) helps expand your medial prefrontal cortex (MPFC) which should help with your executive functions.
 
 How Intelligence Affects Procrastination
@@ -233,13 +233,13 @@ Why is it that you guys may have things that you want to do but have trouble doi
 Being a Smart Kid: Advantage or Disadvantage?
 ---------------------------------------------
 
-A lot of gamers are [smart](https://wiki.healthygamer.gg/en/Learning). Data shows that the average gamer is smarter than the rest of the average population. Most games might have higher IQs than the average person. As a result, a lot of them are told that they're smart, right from a young age. Due to this, they start to develop this identity of being a smart kid. When they develop an [identity](https://wiki.healthygamer.gg/en/Ego) that they're smart, they start to do things that reinforce that identity and stay away from things that contrast with it.
+A lot of gamers are [smart](https://wiki.healthygamer.gg/en/Learning). Data shows that the average gamer is smarter than the rest of the average population. Most gamers might have higher IQs than the average person. As a result, a lot of them are told that they're smart, right from a young age. Due to this, they start to develop this identity of being a smart kid. When they develop an [identity](https://wiki.healthygamer.gg/en/Ego) that they're smart, they start to do things that reinforce that identity and stay away from things that contrast with it.
 
 For example: if a child thinks that they are smart, then they would want to do things that other people are gonna perceive as being smart. But if there are things that they are not very good at, and they feel stupid when they try it, then they are very unlikely to attempt it.
 
-Over time, the smart kid only does things that make them appear smart, which means things that are generally easier. They stay away from things that are hard for them. This works out fine until they reach third grade, fourth grade, or fifth grade because as a smart kid you do not have to spend a whole lot of time studying. You can just do the things that you want to and everyone, including your parents, teachers, family and family friends are all going to say, "Oh, look at that kid, he's so bright." But over time, those kinds of kids start to avoid challenging things because whenever they do something challenging, they feel stupid. This conflicts with their identity of being smart.
+Over time, the smart kid only does things that make them appear smart, which means things that are generally easier. They stay away from things that are hard for them. This works out fine until they reach third grade, fourth grade, or fifth grade because as a smart kid you do not have to spend a whole lot of time studying. You can just do the things that you want to, and everyone, including your parents, teachers, family, and family friends are all going to say, "Oh, look at that kid, he's so bright." But over time, those kinds of kids start to avoid challenging things because whenever they do something challenging, they feel stupid. This conflicts with their identity of being smart.
 
-A kid who is told that they are smart avoids challenging things and as they get older, that avoidance becomes baked in. It becomes a part of who they are and how they move around in the world.
+A kid who is told that they are smart avoids challenging things, and as they get older, that avoidance becomes baked in. It becomes a part of who they are and how they move around in the world.
 
 This avoidance starts at a very young age. Moreover, the hardest things for gamers to do are those where you're being observed by other people. You feel incompetent, why is it that that bothers you so much even if those are people that you don't care about? Even if you're never going to see them again.
 
@@ -249,7 +249,7 @@ The first way to get around this problem is by reframing a little bit. In the wo
 
 The world values, as well as rewards, is experience and competence. A lot of people are really smart, but they don't amount to much.
 
-That is probably the way that you feel right now. you feel that despite being so smart, you're not able to accomplish a lot in life. 95 percent of gamers say that it's because they are [lazy](https://wiki.healthygamer.gg/en/Motivation). Let's reframe from smart or stupid to experienced and inexperienced.
+That is probably the way that you feel right now. You feel that despite being so smart, you're not able to accomplish a lot in life. 95 percent of gamers say that it's because they are [lazy](https://wiki.healthygamer.gg/en/Motivation). Let's reframe from smart or stupid to experienced and inexperienced.
 
 Your success has nothing to do with your intelligence. It has to do with your experience or inexperience and the degree of your competence. Think about what you want to do and try to reframe in your mind, that it's not that you are smart or stupid --- you are experienced or inexperienced.
 
